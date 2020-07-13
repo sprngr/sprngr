@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My Github is loaded with lots of repos of projects I've hacked on at different points in time, some of them are unmaintained but if you would like to see an update with them please drop me an issue or PR in that project.
+
 <!--
 **sprngr/sprngr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
